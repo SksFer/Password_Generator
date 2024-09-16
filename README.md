@@ -12,4 +12,4 @@ How It Works
 random_password(length):
 This function generates a password of the specified length.
 It uses the string module to gather all possible characters: uppercase/lowercase letters, digits, and punctuation symbols.
-For each character in the password, a random character is chosen from this set using Python's random.choice() function.
+For each character in the password, a random character is chosen from this set using Python's "random.choice()" function.
